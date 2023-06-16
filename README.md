@@ -1,1 +1,2 @@
 # PasswordGenerator
+This program generates usernames based on student ID and student names. The username starts with the first three characters of the student's first name, followed by the first three characters of the student's last name, and ended with the last three characters of the student's ID number. If any of the field is less than three characters, use the entire field. Once an username has been generated, ask the user to enter a valid password.
